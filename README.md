@@ -1,1 +1,1 @@
-(brigos.com.br)
+<brigos.com.br>
