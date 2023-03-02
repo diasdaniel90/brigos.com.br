@@ -1,0 +1,19 @@
+{
+  "name": "brigos.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diasdaniel90/brigos.github.io.git",
+  "author": "rchakz <rampelottocharles@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mariadb": "^3.1.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.12"
+  }
+}
