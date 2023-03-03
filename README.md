@@ -4,11 +4,7 @@ yarn add typescript express
 yarn add typescript ts-node-dev @types/express -D
 yarn tsc --init
 
-
 yarn add typeorm reflect-metadata mariadb
-
-
-
 
 sudo mysql -u root
 CREATE USER 'admin'@localhost IDENTIFIED BY 'admin';
